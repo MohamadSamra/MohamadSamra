@@ -1,4 +1,4 @@
-𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 with 7 𝐲𝐞𝐚𝐫𝐬 experience building and maintaining responsive websites in the marketing industry. Worked on more than 22 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬. Proficient in 𝐅𝐫𝐨𝐧𝐭𝐄𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 and modern HTML, CSS, JavaScript and React. Possess working knowledge of 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 including NodeJS / Express.js.
+𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 with 10 𝐲𝐞𝐚𝐫𝐬 experience building and maintaining responsive websites in the marketing industry. Worked on more than 22 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬. Proficient in 𝐅𝐫𝐨𝐧𝐭𝐄𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 and modern HTML, CSS, JavaScript and React. Possess working knowledge of 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 including NodeJS / Express.js.
 
 ---------------------------------------------
 
