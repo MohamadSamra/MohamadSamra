@@ -1,34 +1,28 @@
-𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 with 10 𝐲𝐞𝐚𝐫𝐬 experience building and maintaining responsive websites in the marketing industry. Worked on more than 22 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬. Proficient in 𝐅𝐫𝐨𝐧𝐭𝐄𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 and modern HTML, CSS, JavaScript and React. Possess working knowledge of 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 including NodeJS / Express.js.
+# Mohamad Samra
 
----------------------------------------------
+**Software Engineer | Azure Cloud, Platform Engineering & Architecture**
 
-𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐈𝐧𝐟𝐨
+I'm a software engineer with over a decade of experience building web applications and backend services. My recent work focuses on Azure infrastructure, cloud operations, deployment automation, and reliability for AI-powered applications.
 
-✉️ Email : mohamad.i.samra@gmail.com <br />
-💻 Website : www.mohamadsamra.com <br />
-📑 Linkedin: www.linkedin.com/in/mohamad-samra/ <br />
+I work on the KAION platform, contributing to Azure environment design, infrastructure as code, AKS deployments, CI/CD pipelines, monitoring, and production readiness. My software development background helps me work across applications and infrastructure.
 
----------------------------------------------
+## Areas of experience
 
-𝐕𝐚𝐥𝐮𝐞𝐬
+- **Azure and infrastructure:** Azure App Service, AKS, Key Vault, Storage, PostgreSQL, Redis, and Terraform.
+- **Delivery and operations:** Azure DevOps, GitHub Actions, Docker, CI/CD, environment configuration, and release troubleshooting.
+- **Observability and reliability:** Azure Monitor, Application Insights, Log Analytics, Grafana, Sentry, load testing, and incident investigation.
+- **Software development:** TypeScript, JavaScript, Node.js, Express.js, Next.js, React, and APIs.
 
-👨‍🎓 Continues learning Improvement and exploring latest technologies and strategies.<br />
-🎭 Supporting and encouraging colleagues.<br />
-😎 Keeping Calm and focus under pressure and emergencies.<br />
-🌍 Respecting people regardless of their race gender religion or position.<br />
-🔊 Ease of communication honesty and modesty.<br />
-✅ Cooperation and sharing quality of life hacks.<br />
-🌝 Maintaining mental health and high productivity. <br />
-☕️ Starting the day with a nice cup of Coffee.<br />
+## Certification
 
----------------------------------------------
+- Microsoft Certified: Azure Fundamentals (AZ-900)
 
-𝐅𝐫𝐨𝐧𝐭 𝐄𝐧𝐝 𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐭𝐢𝐞𝐬<br />
-React | JavaScript | HTML | CSS | SASS | Bootstrap | JQuery | Responsive Design | Mobile First Development | Styled Modules | CSS in JavaScript | Consuming API | Redux
-Interested in Frontend Development or Frontend Engineering Roles.
+## Current interests
 
-𝐁𝐚𝐜𝐤 𝐄𝐧𝐝 𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐭𝐢𝐞𝐬<br />
-JavaScript | NodeJS | ExpressJS | C# | .NET core | .NET Framework | SQLServer | SQL | Git | GitHub | MongoDB | Skwid | CMS | Strapi | HCMS | MVC | API.
+Azure cloud engineering, platform engineering, cloud architecture, infrastructure automation, and reliable cloud systems.
 
-𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐓𝐨𝐨𝐥𝐬<br />
-Visual Studio code | Visual Studio | TFS | GIT | GitHub | Postman | FileZilla
+## Connect
+
+- [Website](https://www.mohamadsamra.com)
+- [LinkedIn](https://www.linkedin.com/in/mohamad-samra/)
+- [Email](mailto:mohamad.i.samra@gmail.com)
